@@ -888,24 +888,24 @@ var BlobComponent = /** @class */ (function () {
         // Do stuff
         this.blobs = [
             {
-                url: "https://picsum.photos/id/366/1600/300",
+                url: "https://picsum.photos/id/366/2600/300",
                 type: 'Testimonial',
                 from: 'Gary Ross, CEO, Med-Compliance IQ',
                 message: '"Nathan and his team are a pleasure to work with. They are not only talented at software development but are dedicated to delivering results for their customers. They put in extra effort upfront to learn your business so that they can design software that fits the company vision like a glove and helps the business grow. I highly recommend you consider Fullstackers for your next startup or existing business software development project."'
             },
             {
-                url: "https://picsum.photos/id/192/1600/300",
+                url: "https://picsum.photos/id/192/2600/300",
                 type: 'Do you know?',
                 message: 'Fullstackers retains 80% of previous clients thru out the years.'
             },
             {
-                url: "https://picsum.photos/id/370/1600/300",
+                url: "https://picsum.photos/id/370/2600/300",
                 type: 'Testimonial',
                 from: 'Hall Johnson, Co-Founder & CEO, MassMatrix',
                 message: '"Early collaboration with Fullstackers allowed us to effectively complete our development-specific objectives moving us to achieve our funding goals. In our latest iteration Fullstackers contributed with their expertise in project management, design and development, allowing us to bring our product from complex concept to market."'
             },
             {
-                url: "https://picsum.photos/id/60/1600/300",
+                url: "https://picsum.photos/id/60/2600/300",
                 type: 'Do you know?',
                 message: 'Fullstackers adopts agile practice for most of our clients. We also tailor our development process to best fit client\'s need.'
             }
